@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hey, I'm Aryan Choubey 👋
 
-<!--
-**aryandotdev/aryandotdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring AI/ML Engineer  
+🧠 Class 10 Student with a Warrior’s Mindset  
+⚔️ Coding my way through logic, discipline, and fire
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 My Mission
+
+- Build 12–15 real AI/ML projects before graduation  
+- Crack the code to self-mastery, discipline, and top-tier skill  
+- Become the version of me even I didn’t know I could be
+
+---
+
+## 🧱 What I’m Learning Right Now
+
+- Python 🐍 (CodeWithHarry + VSCode)  
+- Git & GitHub Basics  
+- Foundations of Machine Learning  
+- Class 10 Maths, Science, and CS 🧮🔬💻 (Studying Other Main Subjects Side by Side)
+
+---
+
+## 🛠️ My Setup
+
+- Editor: VS Code  
+- Terminal: Git Bash  
+- Discipline Mode: ⚔️ On  
+- Inspiration: Musashi Miyamoto 🥷
+
+---
+
+## 📅 Long-Term Goals
+
+- 📘 Master Computer Science + AI  
+- 🏛️ Study at IIT or Top CS Institute  
+- 🔬 Contribute to real-world ML research  
+- 🧩 Intern, build, and deploy projects that actually matter  
+- 💼 Become a great son, student, and engineer
+
+---
+
+🛤️ *Day by day, repo by repo — I’m writing the code that writes my future.*
+
+**Welcome to my Temple of Code.**
